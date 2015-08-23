@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ryanolio</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ryanolio_title_main">Ryan De Gruyters Android Apps Portfolio!</string>
+    <string name="scores_ap">Scores</string>
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="library_app">Library</string>
+    <string name="build_it_bigger">Build it bigger</string>
+    <string name="xyz_reader">XYZ Reader</string>
+    <string name="capstone">Capstone: My Own App</string>
+
+    <!-- Add an app name in the array below, create a string resource first and refer it as an item -->
+    <string-array name="apps">
+        <item>@string/spotify_streamer</item>
+        <item>@string/scores_ap</item>
+        <item>@string/library_app</item>
+        <item>@string/build_it_bigger</item>
+        <item>@string/xyz_reader</item>
+        <item>@string/capstone</item>
+
+    </string-array>
+</resources>
